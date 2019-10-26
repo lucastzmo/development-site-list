@@ -5,3 +5,5 @@
 [Dev.to](https://dev.to/)
 
 [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+[Developers Google](https://developers.google.com/web/fundamentals)
